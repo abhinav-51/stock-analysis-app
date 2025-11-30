@@ -49,4 +49,45 @@ This project allows users to visualize stock data, analyze trends using technica
 ---
 
 ## 📁 Project Structure
+project/
+│── main.py (or app.py)
+│── requirements.txt
+│── README.md
+│── apps/
+│ ├── complete_phase1.py
+│ ├── complete_phase2.py
+│ ├── complete_phase3.py
+
+
+---
+
+## ▶️ How to Run the App
+
+### **1️⃣ Install dependencies**
+
+### **2️⃣ Run the Streamlit app**
+https://github.com/abhinav-51/stock-analysis-app
+
+
+---
+
+## 🧠 Future Improvements
+- Add LSTM deep learning model for predictions  
+- Add multi-stock comparison  
+- Add dashboard themes  
+- Include live news sentiment analysis  
+
+---
+
+## 🙌 Acknowledgements
+- Streamlit  
+- yFinance API  
+- Scikit-learn  
+- TA Indicators Library  
+
+---
+
+## 📜 License
+This project is open-source under the **MIT License**.
+
 
